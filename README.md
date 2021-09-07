@@ -4,4 +4,4 @@ A responsive faq accordion for a [Frontend Mentor challenge](https://www.fronten
 
 Created with only HTML & CSS.
 
-[Preview Site](https://iRupam.github.io/FAQ-accordion-card)
+[Preview Site](https://irupam.github.io/iRupam-FAQ-accordion-card/)

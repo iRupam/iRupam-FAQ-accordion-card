@@ -95,7 +95,8 @@ footer a{
 }
 
 .list-word:hover{
-    color:hsl(14,88%,65%);
+    color:hsl(237,12%,33%);
+    font-weight: bold;
 }
 
 .list-description{
